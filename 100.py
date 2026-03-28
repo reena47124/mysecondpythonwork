@@ -1,4 +1,5 @@
 #count numbers with exactly 3 divisors.
+#method 1)
 num=int(input("enter the number:"))
 sum=0
 for i in range(1,num+1):

@@ -5,4 +5,4 @@ while num!=0:
     digit=num%10
     count=count+digit
     num=num//10
-print("sum of digits of a number is:",count)    
+print("sum os digits of a number is:",count)    
