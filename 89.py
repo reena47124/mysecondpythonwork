@@ -5,5 +5,5 @@ HCF=1
 for i in range(1,min(a,b)+1):
     if a%i==0 and b%i==0:
         HCF=i
-lcm=(a*b)/HCF
+lcm=(a*b)//HCF
 print(f"lcm of two given numbers is {lcm}")
