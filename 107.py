@@ -3,7 +3,7 @@ num=int(input("enter the number:"))
 temp=num
 a=[]
 i=2
-while i<num:
+while i<num:         #while i*i<=n:  optimise solution.
     if num%i==0:
         a.append(i)
         while num%i==0:
