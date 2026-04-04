@@ -10,4 +10,4 @@ minimum=a[0]
 for i in a:
     if i<minimum:
         minimum=i
-print(f"minimu is:{minimum}")                                  
+print(f"minimum is:{minimum}")                                  
