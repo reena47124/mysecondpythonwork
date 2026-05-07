@@ -1,1 +1,1 @@
-print(f"second largest:{result}")
+display_marks
