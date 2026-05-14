@@ -1,5 +1,6 @@
 #tuple
 #find the index of an element.
+#method 1)
 t=tuple(map(int,input("enter elements:").split()))
 ele=int(input("enter the element:"))
 count=0

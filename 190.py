@@ -5,4 +5,4 @@ def func_print(*args,a,b):
     for num in args:
         print(f"{num}")
     return
-func_print(2,4,78,45,a=12,b=11)
+func_print(2,4,78,45,a=12,b=11)   #order of arguments matters.

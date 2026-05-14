@@ -1,5 +1,6 @@
 #oops in python.
 #create a Rectangle class and method to find area.
+#method 1)
 class Rectangle:
     def __init__(self,length,breadth):
         self.length=length
