@@ -1,4 +1,4 @@
-#move all zeros to the end
+#move all zeros to the end,bult-in method
 a=[1,0,3,0,5,0,7]
 nums=[]
 zeros=[]

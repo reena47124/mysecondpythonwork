@@ -1,4 +1,4 @@
-#move all zeros to the end,optimize method
+#move all zeros to the end,naive method
 a=[1,0,0,0,5,0,7]
 n=len(a)
 i=0
