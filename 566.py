@@ -6,4 +6,4 @@ def missing(arr):
     total = n*(n+1)//2
 
     return total-sum(arr)
-print(missing([1,2,4,5]))
+print(missing([1,2,4,5,6]))
